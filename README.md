@@ -1,2 +1,2 @@
 # BullsVSBears
-Crypto game about Bears VS Bulls fight
+Crypto game about Bulls VS Bears fight
